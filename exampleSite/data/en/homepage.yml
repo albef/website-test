@@ -5,7 +5,17 @@ slider:
   slider_item:
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "Aqua Engineering S.r.l. is a well experienced engineering and service
+company with consolidated design capabilities in the steel industrial
+structures and mechanical equipment and specifical experience in the offshore
+and Oil & Gas field.
+
+
+Aqua Engineering offers a wide range of design and consultancy services
+in the structural, mechanical, marine and process field, providing a competent and
+flexible support to Oil Companies, Main Contractors, Manufacturers and
+Marine operators, to improve their technological levels and
+the performances of their products."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,8 +25,16 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Activity sector"
+      content : "- Structural design and modelling
+
+- Mechanical and naval design for industrial and marine field
+
+- Process design and modelling
+
+- Project management and technical coordination
+
+- Technical services and system engineering"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -26,8 +44,28 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Main Activities"
+      content : "- Design of structures for offshore and onshore application
+
+- Design of mechanical and structural components and special analysis
+
+- Design of systems for handling and production of oil & gas product
+
+- Hydrostatic and hydrodynamic analyses of structure, equipment and maritime installations
+
+- Fem Analysis
+
+- Modelling of pipeline systems
+
+- Study and development of marine operation
+
+- Design of plant and packages for oil and gas and chemical industry
+
+- Design, development and supplying of underwater monitoring system
+
+- Project technical review, cost-benefit analysis, consulting services, risk analysis, and training courses
+
+- Planning and management of complex project, Technical coordination of multi-tasking working teams and Vendors and sub-suppliers evaluation."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down

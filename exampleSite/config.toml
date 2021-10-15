@@ -103,7 +103,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
+copyright = "Copyright &copy; Aqua Engineering S.r.l."
 
 
 
@@ -116,13 +116,13 @@ url = "about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "course"
+name = "Activities"
 url = "course"
 weight = 2
 
 [[Languages.en.menu.main]]
 weight = 3
-name = "Pages"
+name = "Resources"
 hasChildren = true
 
   [[Languages.en.menu.main]]
@@ -151,14 +151,19 @@ hasChildren = true
   url = "research"
   
 [[Languages.en.menu.main]]
-name = "blog"
+name = "News"
 url = "blog"
 weight = 4
+
+[[Languages.en.menu.main]]
+name = "Clients"
+url = "blog"
+weight = 5
   
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "contact"
-weight = 5
+weight = 6
 
 
 # footer menu
