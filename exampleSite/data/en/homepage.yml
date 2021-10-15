@@ -66,12 +66,19 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
+  title : "About Aqua Engineering"
   image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
+  content : "Aqua Engineering S.r.l. is a well experienced engineering and service
+company with consolidated design capabilities in the steel industrial
+structures and mechanical equipment and specifical experience in the offshore
+and Oil & Gas field.
 
 
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+Aqua Engineering offers a wide range of design and consultancy services
+in the structural, mechanical, marine and process field, providing a competent and
+flexible support to Oil Companies, Main Contractors, Manufacturers and
+Marine operators, to improve their technological levels and
+the performances of their products."
   button:
     enable : true
     label : "Learn more"
@@ -81,7 +88,7 @@ about:
 ############################# Course ################################
 course:
   enable : true
-  title : "Our Course"
+  title : "Our Activities"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################

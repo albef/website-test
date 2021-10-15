@@ -1,11 +1,11 @@
 ---
-title: "Photography"
+title: "Structural design"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Design of structure, equipment and devices for offshore & onshore application."
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
@@ -13,11 +13,11 @@ category: "Photography"
 # teacher
 teacher: "Clark Malik"
 # duration
-duration : "06 Month"
+#duration : "06 Month"
 # weekly
-weekly : "03 hours"
+#weekly : "03 hours"
 # course fee
-fee : "From: $699"
+#fee : "From: $699"
 # apply url
 apply_url : "#"
 # type
