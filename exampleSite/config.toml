@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/educenter/"
-title = "Educenter | hugo education template"
+title = "Aqua Engineering | Engineering services"
 theme = "educenter-hugo"
 # post pagination
 paginate = "6"
@@ -48,9 +48,9 @@ logo = "images/logo2.png"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "Via A. Pacinotti 4/A, 30172 Marghera (VE)"
+mobile = "+39 041 5322628"
+email = "info@aquaengineering.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -85,29 +85,14 @@ expire_days = 2
   
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "skype"
+icon = "ti-skype" # themify icon : https://themify.me/themify-icons
+link = "skype:aqua_eng01"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/aqua-engineering-srl/"
 
 
 ################################### English language #####################################

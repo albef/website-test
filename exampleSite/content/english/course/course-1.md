@@ -13,11 +13,11 @@ category: "Photography"
 # teacher
 teacher: "Clark Malik"
 # duration
-#duration : "06 Month"
+duration : "06 Month"
 # weekly
-#weekly : "03 hours"
+weekly : "03 hours"
 # course fee
-#fee : "From: $699"
+fee : "From: $699"
 # apply url
 apply_url : "#"
 # type
